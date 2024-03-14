@@ -250,6 +250,10 @@ h2.notion-heading * {
   gap: 120px !important;
 }
 
+.notion-collection-card.no-click {
+  pointer-events: none;
+}
+
 .notion-collection-gallery.large .notion-collection-card {
   display: flex !important;
   flex-direction: column-reverse !important;
