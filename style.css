@@ -121,6 +121,16 @@ body {
   top: -160px !important;
 }
 
+.notion-header__content.no-icon.has-cover {
+  transform: translateY(-100%);
+  background: #00000021;
+}
+
+.notion-header__content.no-icon.has-cover .notion-header__title-wrapper {
+  margin-top: 0;
+  color: white;
+}
+
 .notion-header__cover.no-cover {
   height: 70px !important;
   max-height: 70px !important;
