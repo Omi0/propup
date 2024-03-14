@@ -123,8 +123,13 @@ body {
 }
 
 .notion-header__content.no-icon.has-cover .notion-header__title-wrapper {
+  margin-top: 0;
   margin-top: 0 !important;
   color: white;
+}
+
+.notion-header__content.no-icon.has-cover .notion-header__title {
+  text-shadow: 0 0 20px #595959;
 }
 
 .notion-header__cover.no-cover {
