@@ -142,11 +142,11 @@ body {
   max-height: 70px !important;
 }
 
-.color-green {
+.color-orange {
   color: var(--primary-color) !important;
 }
 
-.bg-green, .bg-green-light {
+.bg-orange, .bg-orange-light {
   background: var(--primary-color) !important;
   color: white !important;
 }
