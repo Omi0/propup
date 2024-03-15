@@ -117,18 +117,18 @@ body {
   top: -160px !important;
 }
 
-.notion-header__content.no-icon.has-cover {
+.notion-header__content.has-cover {
   transform: translateY(-100%);
   background: #00000021;
 }
 
-.notion-header__content.no-icon.has-cover .notion-header__title-wrapper {
-  margin-top: 0;
+.notion-header__content.has-cover .notion-header__title-wrapper {
+  margin-top: 0 !important;
   margin-top: 0 !important;
   color: white;
 }
 
-.notion-header__content.no-icon.has-cover .notion-header__title {
+.notion-header__content.has-cover .notion-header__title {
   text-shadow: 0 0 20px #595959;
 }
 
